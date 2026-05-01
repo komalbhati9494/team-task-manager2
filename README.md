@@ -109,12 +109,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🎥 Demo
-
-👉 [Add your demo video link here]
-
----
-
 ## 🌍 Deployment
 
 Deployment was attempted using Railway/Render.
@@ -132,7 +126,7 @@ Due to time constraints, the project is demonstrated via local setup.
 
 ## 👩‍💻 Author
 
-* Your Name
+* komal bhati
 
 ---
 
