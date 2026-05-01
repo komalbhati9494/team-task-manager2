@@ -109,12 +109,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🌍 Deployment
-
-Deployment was attempted using Railway/Render.
-Due to time constraints, the project is demonstrated via local setup.
-
----
 
 ## 📌 Future Improvements
 
